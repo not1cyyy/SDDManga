@@ -1,0 +1,2 @@
+# SDDManga
+SDDM Manga theme
